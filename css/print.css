@@ -1,35 +1,35 @@
--body {
--  color: black;
--  background: transparent;
--  font-size: 12pt;
--  font-family: "Times New Roman", serif;
--}
--
--@page {
--  margin: 1in;
--  }
--
--#container{
--  margin: 0 auto;
--  width: 7in;
--}
--
--#backToTop {
--  display:none;
--  }
--
--nav ul {
--  margin: 0;
--  padding: 0;
--}
--
--
--nav{
--  display:none;
--
--}
--
--a {
--  text-decoration: none;
--  color: black;
--  }
+body {
+  color: black;
+  background: transparent;
+  font-size: 12pt;
+  font-family: "Times New Roman", serif;
+}
+
+@page {
+  margin: 1in;
+  }
+
+#container{
+  margin: 0 auto;
+  width: 7in;
+}
+
+#backToTop {
+  display:none;
+  }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+nav{
+  display:none;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  }

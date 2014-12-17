@@ -1,106 +1,106 @@
--@import url(http://fonts.googleapis.com/css?family=Lobster);
--@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed);
--
--body {
--  background-color:
--  #000000;
--  font-family:
--  Roboto Condensed;
--  color: #FF0066;
--  }
--
--h1 {
--  color: #FFFFFF;
--  font-family: Lobster;
--  font-size: 60px;
--  }
--
--#name {
--  color: #FFFFFF;
--  font-family: Lobster;
--  font-size: 60px;
--  border: 7px solid #FF0066;
--  border-style: ridge;
--  text-align: center;
--  }
--
--h2 {
--  color: #FFFFFF;
--  font-family: Roboto Condensed;
--  font-size: 30px;
--  text-align: left;
--  }
--
--p {
--  color: white;
--  }
--
--#about {
--  display: inline-block;
--  float: left;
--  width: 650px;
--  }
--
--.navbar li {
--  display:inline-block;
--  padding: 20px;
--  list-style-type: none;
--  }
--
--#me {
--  display: inline-block;
--  float: right;
--  margin-top:-15px;
--  }
--
--.container {
--  display: inline-block;
--  float: left;
--  width:430px;
--  padding: 15px;
--  border: 7px solid #FF0066;
--  border-style: ridge;
--  margin-top: 195px;
--  align: center;
--  }
--
--#resume {
--  display: inline-block;
--  float: right;
--  margin-top:100px;
--  width: 610px;
--  height: 500px;
--  overflow-x: hidden;
--  overflow-y: scroll;
--  }
--
--hr {
--  background-color: white;
--  width: 700px;
--  height: 1px;
--  border: 1px solid white;
--  border-style: ridge;
--  margin: auto;
--  }
--
--a:hover {
--  color: #FF0066;
--  background-color: white;
--  border-radius: 120px;
--  }
--
--a:visited {
--  color: #FF0066;
--  }
--
--#backToTop {
--  float: right;
--  }
--
--footer {
--  width:100%;
--  height:30px;
--  position:fixed;
--  bottom:0;
--  left:0;
--  }
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+body {
+  background-color:
+  #000000;
+  font-family:
+  Roboto Condensed;
+  color: #FF0066;
+  }
+
+h1 {
+  color: #FFFFFF;
+  font-family: Lobster;
+  font-size: 60px;
+  }
+
+#name {
+  color: #FFFFFF;
+  font-family: Lobster;
+  font-size: 60px;
+  border: 7px solid #FF0066;
+  border-style: ridge;
+  text-align: center;
+  }
+
+h2 {
+  color: #FFFFFF;
+  font-family: Roboto Condensed;
+  font-size: 30px;
+  text-align: left;
+  }
+
+p {
+  color: white;
+  }
+
+#about {
+  display: inline-block;
+  float: left;
+  width: 650px;
+  }
+
+.navbar li {
+  display:inline-block;
+  padding: 20px;
+  list-style-type: none;
+  }
+
+#me {
+  display: inline-block;
+  float: right;
+  margin-top:-15px;
+  }
+
+.container {
+  display: inline-block;
+  float: left;
+  width:430px;
+  padding: 15px;
+ border: 7px solid #FF0066;
+ border-style: ridge;
+  margin-top: 195px;
+  align: center;
+  }
+
+#resume {
+  display: inline-block;
+  float: right;
+  margin-top:100px;
+  width: 610px;
+  height: 500px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  }
+
+hr {
+  background-color: white;
+  width: 700px;
+  height: 1px;
+  border: 1px solid white;
+  border-style: ridge;
+  margin: auto;
+  }
+
+a:hover {
+  color: #FF0066;
+  background-color: white;
+  border-radius: 120px;
+  }
+
+a:visited {
+  color: #FF0066;
+  }
+
+#backToTop {
+  float: right;
+  }
+
+footer {
+  width:100%;
+  height:30px;
+  position:fixed;
+  bottom:0;
+  left:0;
+  }
