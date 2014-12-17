@@ -6,14 +6,17 @@ body {
 }
 
 @page {
-  margin: 1in; }
+  margin: 1in;
+  }
 
 #container{
   margin: 0 auto;
   width: 7in;
 }
 
-#backToTop {display:none; }
+#backToTop {
+  display:none;
+  }
 
 nav ul {
   margin: 0;
@@ -26,4 +29,7 @@ nav{
 
 }
 
-a {text-decoration: none; color: black; }
+a {
+  text-decoration: none;
+  color: black;
+  }
